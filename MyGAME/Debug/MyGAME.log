@@ -1,0 +1,67 @@
+﻿  main.cpp
+C:\Users\VIKA\source\repos\MyGAME\MyGAME\class.h(39,38): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\VIKA\source\repos\MyGAME\MyGAME\class.h(39,28): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\VIKA\source\repos\MyGAME\MyGAME\class.h(39,24): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\VIKA\source\repos\MyGAME\MyGAME\class.h(39,20): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\VIKA\source\repos\MyGAME\MyGAME\class.h(44,1): warning C4244: '+=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\VIKA\source\repos\MyGAME\MyGAME\class.h(45,1): warning C4244: '+=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\VIKA\source\repos\MyGAME\MyGAME\class.h(61,38): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\VIKA\source\repos\MyGAME\MyGAME\class.h(61,28): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\VIKA\source\repos\MyGAME\MyGAME\class.h(61,24): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\VIKA\source\repos\MyGAME\MyGAME\class.h(61,20): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\VIKA\source\repos\MyGAME\MyGAME\class.h(66,1): warning C4244: '+=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\VIKA\source\repos\MyGAME\MyGAME\class.h(82,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\VIKA\source\repos\MyGAME\MyGAME\class.h(92,20): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\VIKA\source\repos\MyGAME\MyGAME\game.h(46,14): warning C4244: 'initializing': conversion from 'sf::Int64' to 'float', possible loss of data
+C:\Users\VIKA\source\repos\MyGAME\MyGAME\game.h(49,29): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\VIKA\source\repos\MyGAME\MyGAME\game.h(50,30): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\VIKA\source\repos\MyGAME\MyGAME\game.h(115): warning C4715: 'start': not all control paths return a value
+  MyGAME.vcxproj -> C:\Users\VIKA\source\repos\MyGAME\Debug\MyGAME.exe
